@@ -42,7 +42,7 @@ Focus: Problem-solving under constraints, code efficiency, and clarity.
 * Mock interview notes
 
 **Goal:** Build strong intuition and the ability to communicate solutions clearly.
-**Resources:** NeetCode 150
+
 ---
 
 ## 💻 Vibe Coding
@@ -58,7 +58,7 @@ Focus: Real-world coding in a collaborative, fast-paced environment.
 * Communication during live coding
 
 **Goal:** Demonstrate practical engineering skills and adaptability.
-**Resources:** Claude Code, Vercel v0, Bolt
+
 ---
 
 ## 🤝 Googleyness Interview
@@ -93,7 +93,7 @@ Focus: Designing intelligent, scalable systems with ML components.
 
 ---
 
-## 📅 Study Plan
+## 📅 How to Use this Repo:
 
 A structured timeline for covering all topics:
 
