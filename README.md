@@ -1,17 +1,31 @@
 # Google Forward Deployed Engineering Interview Prep
 
-This repository documents my preparation journey for the **Google Forward Deployed Engineering (FDE)** interview process. It serves as a structured collection of notes, strategies, practice problems, and reflections across all major interview components.
+This repository documents my preparation for the **Google Forward Deployed Engineering (FDE)** interview process. It serves as a structured collection of notes, timelines, strategies I employed,  practice problems, and reflections across all major interview components.
 
 ---
 
 ## 📌 Overview
 
-The Forward Deployed Engineering role blends software engineering, problem-solving, and customer-facing skills. This repo is organized to reflect the multi-dimensional nature of the interview process:
+The Forward Deployed Engineering role blends software engineering, problem-solving, and customer-facing skills. This repo is organised to reflect the multi-dimensional nature of the interview process:
 
+* Timeline & Recruiter Screening 
 * Data Structures & Algorithms (DSA)
 * Vibe Coding (practical, collaborative coding)
 * Googleyness (behavioral & culture fit)
 * Agentic & Machine Learning System Design
+
+---
+
+## ⏳ Timeline & Recruiter Screening
+
+Focus: Mentioning of past experiences, RRK and Why Factor?
+
+**Contents:**
+
+* What interests you in this role?
+* Tell me about your past experiences? (Prepare 1 Agentic Model & 1 Classical ML Example)
+* 30 - 45 mins where you should ask questions more around the Team and the recruiter too
+* What are you pursuing outside of work?
 
 ---
 
@@ -28,7 +42,7 @@ Focus: Problem-solving under constraints, code efficiency, and clarity.
 * Mock interview notes
 
 **Goal:** Build strong intuition and the ability to communicate solutions clearly.
-
+**Resources:** NeetCode 150
 ---
 
 ## 💻 Vibe Coding
@@ -44,12 +58,12 @@ Focus: Real-world coding in a collaborative, fast-paced environment.
 * Communication during live coding
 
 **Goal:** Demonstrate practical engineering skills and adaptability.
-
+**Resources:** Claude Code, Vercel v0, Bolt
 ---
 
 ## 🤝 Googleyness Interview
 
-Focus: Behavioral traits aligned with Google's values.
+Focus: Behavioural traits aligned with Google's values.
 
 **Contents:**
 
@@ -129,11 +143,5 @@ This repository is based on personal preparation and experiences. It does not co
 ## 📬 Contributions
 
 This is a personal repo, but suggestions or discussions are always welcome!
-
----
-
-## ⭐ Final Thoughts
-
-Preparation for FDE is not just about coding — it's about thinking holistically, communicating effectively, and building solutions that work in real-world environments.
 
 ---
